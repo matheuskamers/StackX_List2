@@ -14,8 +14,8 @@ export const Content = styled.div`
     justify-content: space-between;
 
     button {
-        border = 0;
-        border-radius= 50%;
+        border: 0;
+        border-radius: 50%;
         overflow: hidden;
         width: 3 rem;
         height: 3 rem;

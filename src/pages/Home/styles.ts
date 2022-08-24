@@ -64,7 +64,7 @@ export const TableContent = styled.table`
     thead {
         th {
             text-align: initial;
-            font-weight 600;
+            font-weight: 600;
             font-size: 1rem;
             line-height: 1.3rem;
             color: var(--grey-400);
